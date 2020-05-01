@@ -124,6 +124,7 @@ alias duh='du -h --max-depth=1'
 #add DC bin directory
 export pj=$HOME/2P/
 export pjw=$HOME/0A/2P/
+export bg=$HOME/2P/006-write/blog
 export PATH=$PATH:/home/dc/4T/script
 
 
